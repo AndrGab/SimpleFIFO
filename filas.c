@@ -74,7 +74,7 @@ void remover()
 void menuzinho()
 {
     printf("\n");
-    printf("1: Inserir na Fila / 2: Próximo da Fila / 3: Listar todas / 4: Sair / Opção? ");
+    printf("1: Inserir na Fila \n 2: Próximo da Fila \n 3: Listar todas \n 4: Sair \n Opção? ");
 }
  
 void Menu()
